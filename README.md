@@ -342,3 +342,6 @@ This repository is part of my journey to build industry-ready data analytics ski
 
 This project is created for educational and portfolio purposes.
 
+## Author
+<br>
+    -   ARJUN PATEL
